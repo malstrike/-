@@ -1,0 +1,8 @@
+{
+  "name": "Digital Contagion",
+  "description": "An interactive horror ARG simulating a progressive viral infection of a desktop OS. Features 3D gameplay, TTS, and hardware simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
